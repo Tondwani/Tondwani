@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Advanced data visualization techniques and dashboards Microsoft Azure deployment and cloud optimization**
 
-- 💬 Ask me about **SQL, C++,Python, Java**
+- 💬 Ask me about **SQL, Python, Java**
 
 - 📫 How to reach me **https://www.linkedin.com/in/tondwani-mangaladzi-652218250/**
 
