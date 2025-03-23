@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm I'm Tondwani</h1>
 <h3 align="center">Data Analytics | MLops |Enterprise Data Warehouse | ETL|ELT | Business Intelligence Specialist | Big Data | Machine | Generative AI | Learning | Azure Cloud | AWS Cloud | Google Cloud | OCI |IBM |</h3>
 
-- 🔭 I’m currently working on **ScoreCast Pro, Cloud-based or AI-powered applications**
+- 🔭 I’m currently working on **Cloud-based and AI-powered applications**
 
 - 🌱 I’m currently learning **Advanced data visualization techniques and dashboards Microsoft Azure deployment and cloud optimization**
 
